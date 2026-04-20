@@ -206,3 +206,10 @@ Then I would set some expectations and tell them this cannot go on like this.
 Be prepared ahead of time
 make use of opportunities
 the interview is a measure of your potential
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/noelalam9999/road-to-staff.git
+git push -u origin main
