@@ -207,9 +207,129 @@ Be prepared ahead of time
 make use of opportunities
 the interview is a measure of your potential
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/noelalam9999/road-to-staff.git
-git push -u origin main
+# What does the EM's day to day depend on
+
+Size of the team
+Experience
+Scope
+Relation to the business
+Size of the company
+Role of the team
+
+# Name some Paper work things that a manager has to do
+
+Hiring
+Terminations
+Compensation
+Leave of absences
+Vendor Management
+Purchasing
+Expenses
+Filling Tickets
+
+# How does an engineering manager get involved with Engineering. What role does he play?
+
+Charter
+Communications
+Long-term Strategy
+Work Prioritization
+Context Setting
+Partner and Stakeholder management
+Project management
+
+# What sort of people management does the EM have to do?
+
+Recruiting
+Team development
+Performance Coaching
+Team Health
+Conflict Management
+Onboarding
+
+# Elaborate on the "Rule of 3" and how it helps when talking to a senior manager
+
+Give the senior manager 3 options. 2 are really bad 1 is really good. Wait till they bite on to the good one
+This is a good way to lead unruly people into doing what you want them to do
+
+# Name some of the types of meetings you conduct to make sure everyone is aligned and your workers are swamped
+
+1:1s
+Project Meetings
+Planning Strategy
+All hands
+Team meetings
+Social Events
+Retrospectives
+Staff Meetings
+
+# What is the purpose of a meeting
+
+Planning
+Brainstorming
+Alignment
+Morale
+Sharing info
+Receiving Info
+
+# What is a meeting not for?
+
+Lack of Agenda
+No preparation of the attendees
+
+# Make a list of you responsibilities and the % of time you spend doing each.
+
+Reponsibility -
+Explaining product - 30%
+Aligning/Breaking down work so that it fits the deadline - 20%
+QA work - 10-15%
+Assessing People - 10%
+Misc/Coding - 20-25%
+
+# Make a list of where you spend your time on an average week
+
+Hubstaff - 40%
+Coding IDE - 15-20%
+Teams - 40%
+Excel - 5%
+
+# Evaluate where you are and whether you would want to improve this.
+
+Look good currently. I would like to spend more time reviewing code and QAing
+
+# What are the purposes of each of these meetings - standup, 1:1, all hands, team meeting, project meetings.
+
+Standup - Making sure everyone has work cutout for them, if deadline needs to be extended.
+1:1s - Product discussions, confusions, conflicts resolution, culture,
+all hands - Alignment, Upper management checkin
+team meetings - Brainstorming, Culture.
+Project Meetings - Sharing and receiving info from other teams.
+KPI meetings - to evaluate who to keep and who not to keep.
+
+# Who is your friend?
+
+Other managers. not your sub ordinates
+
+# What should you be doing in your initial days
+
+Listen
+be Curious
+Running meetings - be in charge
+meeting partners
+examining processes
+Might have to hire
+
+# Mistakes to avoid
+
+Micro-managing
+Over promising
+Trying to stay too close
+Overthinking and second guessing
+Not letting go
+Putting too much pressure on yourself
+
+# What does your manager care about ?
+
+Their expectations
+What is important to them right now
+What info do they care about
+what can they help with?
