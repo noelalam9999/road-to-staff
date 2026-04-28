@@ -27,7 +27,7 @@ Tied to operational or tactical objectives
 
 involve your team into these metrics
 
-# Whats a team charter and why we need them
+# Whats a team charter and why do we need it?
 Clarity on teams mission and goals
 Clear alignment for parters and stakeholders
 Team accountability. No responsibility off-boarding. 
@@ -57,5 +57,15 @@ Its demo-ed in stakeholder meetings and then sent to Dev-Ops
 
 How are we successful as a team?
 We have managed to build this mega app from scratch in less than 10months. 
+
+# How often should you revisit your charter?
+1-2 times per year.
+
+# Who needs to be in the loop?
+Stakeholders, 
+partners, 
+customers
+
+
 
 
