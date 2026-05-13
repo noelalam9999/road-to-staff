@@ -66,6 +66,13 @@ Stakeholders,
 partners, 
 customers
 
+# What is additive to you  team
+Diversity 
+Lived Experiences
+Team Dynamics
+Communication Skills
+Leadership skills
+
 
 
 
