@@ -66,12 +66,20 @@ Stakeholders,
 partners, 
 customers
 
-# What is additive to you  team
+# What is additive to your team
 Diversity 
 Lived Experiences
 Team Dynamics
 Communication Skills
 Leadership skills
+
+# How would you write a job title?
+I would name it something accurate and devoid of internal company jargon
+
+# How would you write a job description 
+differentiate between required and preffered. 
+Be realistic about experience
+Be clear about company culture so that the right people reach out
 
 
 
